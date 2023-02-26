@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Using node.js to make a descriptive and professional ReadMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenimB96/ReadMe-Generator.git"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "Stephen Spearman Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenimB96/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/DenimB96/ReadMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
