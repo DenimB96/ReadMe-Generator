@@ -41,9 +41,7 @@ function renderLicenseSection(license) {
 
   const licenseLink = renderLicenseLink(license);
 
-  return `## License
-
-  This project is license under the ${license} license. Click [here](${licenseLink}) for more information.`;
+  return `This project is license under the ${license} license. Click [here](${licenseLink}) for more information.`;
 }
 
 // TODO: Create a function to generate markdown for README

@@ -58,7 +58,7 @@ function writeToFile(fileName, data) {
             console.error(err)
             return
         }
-        console.log(`ReadMe file has been generated: ${fileName}`)
+        console.log(`Congrats your file has been generated!: ${fileName}`)
     })
 }
 
@@ -68,7 +68,7 @@ function init() {
     .then((answers) => {
         const readmeContent = generateMarkdown(answers);
         writeToFile('README.md', readmeContent);
-        console.log('Successfully generated README.md');
+        console.log('We have successfully generated README.md');
     })
     .catch((error) => {
         console.error(error);
