@@ -7,6 +7,8 @@
 
   ## Table of Contents
 
+  - [Link](#Link)
+  - [Screenshot](#Screenshot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -14,7 +16,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ## Demo Link
+  ## Link
   
   https://drive.google.com/file/d/1MNXknR9DBtr2wSsyPgJ9h1-onAo4cjPl/view
   
@@ -24,11 +26,11 @@
 
   ## Installation
 
-  Testing
+  Clone down repo and then run npm install to make sure packages have been installed
 
   ## Usage
 
-  Usage Testing
+ Open the command line and use 'node index'
 
   ## License
 
@@ -40,7 +42,7 @@
 
   ## Tests
 
-  Just keep on testing
+  Test by answering the user input prompts and compare entered data to generated Readme
 
   ## Questions
 
